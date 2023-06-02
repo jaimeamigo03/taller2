@@ -1,0 +1,20 @@
+PunterosTest.01 1 0.0392639
+PunterosTest.02 1 0.033853
+PunterosTest.03 1 0.0311559
+PunterosTest.04 1 0.0309291
+ListaEnlazada.01_lista_enlazada_vacia 2 0.0294998
+ListaEnlazada.02_agregar_elementos_incrementa_la_longitud 1 0.0316325
+ListaEnlazada.03_puedo_acceder_a_los_elementos 1 0.0317301
+ListaEnlazada.04_puedo_preguntar_por_la_suma_de_todos_los_elementos 1 0.0333552
+ListaEnlazada.05_test_clase_teorica 1 0.0400904
+ListaEnlazada.06_puedo_borrar_el_ultimo_elemento 1 0.0483679
+ListaEnlazada.07_puedo_borrar_cualquier_elemento 1 0.0494658
+ListaEnlazada.08_puedo_borrar_el_unico_elemento 0 0
+ListaEnlazada.09_puedo_borrar_el_primer_elemento 1 0.0539932
+ListaEnlazada.10_actual_es_el_primer_elemento_agregado 1 0.047766
+ListaEnlazada.11_si_se_borra_el_actual_se_apunta_al_siguiente 1 0.0574156
+ListaEnlazada.12_puedo_avanzar_actual_al_siguiente_elemento_en_orden 1 0.0568787
+ListaEnlazada.13_si_se_avanza_el_ultimo_elemento_se_vuelve_al_ppio 1 0.0517529
+ListaEnlazada.14_puedo_retroceder_al_anterior_elemento_en_orden 1 0.052527
+ListaEnlazada.15_si_retrocedo_el_primero_vuelvo_al_ultimo 1 0.068027
+---

@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/memoria_dinamica/build/lista_enlazada_test[1]_tests.cmake")
+  include("/workspaces/memoria_dinamica/build/lista_enlazada_test[1]_tests.cmake")
+else()
+  add_test(lista_enlazada_test_NOT_BUILT lista_enlazada_test_NOT_BUILT)
+endif()

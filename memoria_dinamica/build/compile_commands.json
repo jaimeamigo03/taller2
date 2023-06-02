@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/punteros_test.dir/punteros_test.cpp.o -c /workspaces/memoria_dinamica/punteros_test.cpp",
+  "file": "/workspaces/memoria_dinamica/punteros_test.cpp"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++  -std=c++17 -g -o CMakeFiles/lista_enlazada.dir/lista_enlazada/lista_enlazada_main.cpp.o -c /workspaces/memoria_dinamica/lista_enlazada/lista_enlazada_main.cpp",
+  "file": "/workspaces/memoria_dinamica/lista_enlazada/lista_enlazada_main.cpp"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++  -std=c++17 -g -o CMakeFiles/lista_enlazada.dir/lista_enlazada/lista_enlazada.cpp.o -c /workspaces/memoria_dinamica/lista_enlazada/lista_enlazada.cpp",
+  "file": "/workspaces/memoria_dinamica/lista_enlazada/lista_enlazada.cpp"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/lista_enlazada_test.dir/lista_enlazada/lista_enlazada_test.cpp.o -c /workspaces/memoria_dinamica/lista_enlazada/lista_enlazada_test.cpp",
+  "file": "/workspaces/memoria_dinamica/lista_enlazada/lista_enlazada_test.cpp"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/lista_enlazada_test.dir/lista_enlazada/lista_enlazada.cpp.o -c /workspaces/memoria_dinamica/lista_enlazada/lista_enlazada.cpp",
+  "file": "/workspaces/memoria_dinamica/lista_enlazada/lista_enlazada.cpp"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -I/workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock/include -I/workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/workspaces/memoria_dinamica/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -I/workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -I/workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/workspaces/memoria_dinamica/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/include -isystem /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/workspaces/memoria_dinamica/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

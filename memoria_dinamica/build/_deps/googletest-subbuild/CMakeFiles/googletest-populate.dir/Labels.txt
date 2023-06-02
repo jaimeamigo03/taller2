@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/workspaces/memoria_dinamica/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

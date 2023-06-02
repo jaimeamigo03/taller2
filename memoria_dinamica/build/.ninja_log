@@ -1,0 +1,21 @@
+# ninja log v5
+18754	19851	1685644143889682600	lib/libgmockd.a	645ee92a037ad539
+139	512	1685655169049207300	CMakeFiles/lista_enlazada.dir/lista_enlazada/lista_enlazada_main.cpp.o	554ad1d2be1238ef
+142	201	1685655168731228800	CMakeFiles/lista_enlazada_test.dir/lista_enlazada/lista_enlazada.cpp.o	42a17fa10de7d59c
+515	643	1685655169183105700	lista_enlazada	6fd2cf55989a6ecd
+310	14352	1685644138396880500	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	aded0eb4b192f618
+141	4606	1685655173141033000	CMakeFiles/lista_enlazada_test.dir/lista_enlazada/lista_enlazada_test.cpp.o	7f5dd58713ae98de
+342	6879	1685644130914761300	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	17dd86d17ee20085
+17080	18752	1685644142807325500	lib/libgtestd.a	845569bf6cd4451f
+1891	2865	1685645266048201100	punteros_test	470e74d741cb8bbb
+282	15231	1685644139271857300	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	cd583af9d3599182
+19855	20057	1685644144099501900	lib/libgmock_maind.a	cef5996ac4d2f57d
+324	17058	1685644141087986400	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	50e24c8d52617ee8
+4610	5492	1685655174034283500	lista_enlazada_test[1]_tests.cmake	202cc40a35d98b48
+18755	18873	1685644142932692600	lib/libgtest_maind.a	4947431c6251f349
+140	190	1685655168725623400	CMakeFiles/lista_enlazada.dir/lista_enlazada/lista_enlazada.cpp.o	adc740239563cbc9
+4610	5492	1685655174034283500	lista_enlazada_test	202cc40a35d98b48
+4610	5492	1685655174034283500	/workspaces/memoria_dinamica/build/lista_enlazada_test[1]_tests.cmake	202cc40a35d98b48
+124	1886	1685645265064683500	CMakeFiles/punteros_test.dir/punteros_test.cpp.o	3a183e90e531013b
+1891	2865	1685645266048201100	punteros_test[1]_tests.cmake	470e74d741cb8bbb
+1891	2865	1685645266048201100	/workspaces/memoria_dinamica/build/punteros_test[1]_tests.cmake	470e74d741cb8bbb

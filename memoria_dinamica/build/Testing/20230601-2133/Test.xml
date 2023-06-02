@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20230601-2133-Experimental"
+	Name="fc6c704aac57"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.3.0"
+	OSName="Linux"
+	Hostname="fc6c704aac57"
+	OSRelease="5.10.16.3-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Fri Apr 2 22:23:49 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="4096"
+	TotalPhysicalMemory="12612"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2112"
+	>
+	<Testing>
+		<StartDateTime>Jun 01 21:43 UTC</StartDateTime>
+		<StartTestTime>1685655784</StartTestTime>
+		<TestList>
+			<Test>./ListaEnlazada.01_lista_enlazada_vacia</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ListaEnlazada.01_lista_enlazada_vacia</Name>
+			<Path>.</Path>
+			<FullName>./ListaEnlazada.01_lista_enlazada_vacia</FullName>
+			<FullCommandLine>/workspaces/memoria_dinamica/build/lista_enlazada_test "--gtest_filter=ListaEnlazada.01_lista_enlazada_vacia" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0284582</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/workspaces/memoria_dinamica/build/lista_enlazada_test "--gtest_filter=ListaEnlazada.01_lista_enlazada_vacia" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMtqwzAQvOsr9hgfbCXXQA6Fhhxa0uC0J2PERt4YUT2MJCfQr69fhLhQ8Jz2MRrNTt5aq2wNBpVdJXD1zgC/O/8dGpQUuCHjvEJRKYtGSeSXVumKi4qawGvnak2RQkyDl08tH9q+Er1wJiU7ukhbOAwU+Ow2cFU6kocdvKsQcW81/mCF2XojdD8QNE3EDaVCVuweKCGfbG8gDlK97akOrYqUsSJ9oISDdhfU457sTXlnDdmOSzFtmz/kZ82ZNVZA/nWEAeVS1yMdPt6WPoHVGkxIFnoa2RBdRJ2wZVdHQp9W7m7nmf6XJXi02fyf7qrTy/m8f+2DGLkZ+wVNNMCk====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 01 21:43 UTC</EndDateTime>
+		<EndTestTime>1685655784</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
